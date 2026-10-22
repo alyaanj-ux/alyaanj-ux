@@ -14,7 +14,7 @@ I build desktop tools for Windows — mostly things I wanted to exist and couldn
 
 ### How I try to write things
 
-Every repo above has a **known limitations** section, and they're real ones —
+Every project above has a **known limitations** section, and they're real ones —
 what the tool can't do, what wasn't verified on hardware I don't own, and which
 approach I picked over the "proper" one because the proper one was less reliable.
 A tool that overstates itself is worse than a smaller tool that doesn't.
